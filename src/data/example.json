@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "userReference": "R100",
+      "responderStatus": 0,
+      "location": {
+        "latitude": 100,
+        "longitude": 100,
+        "distance": null
+      },
+      "featureTypeId": 1
+    }
+  ],
+  "pagination": {
+    "total": 1,
+    "perPage": 10,
+    "lastPage": 1,
+    "nextPageUrl": null,
+    "prevPageUrl": null,
+    "from": 1,
+    "to": 1,
+    "totalPages": 1,
+    "currentPage": 1,
+    "hasMorePages": false
+  }
+}
